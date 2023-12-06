@@ -53,7 +53,8 @@ print(ozet)
 ```
 1^ Assume that we separete text for extract sentences.
 Code Example for Abstractive summarization with Huggingface
-https://christianbernecker.medium.com/nlp-summarization-use-bert-and-bart-to-summarize-your-favourite-newspaper-articles-fb9a81bed016
+
+kaynak düzenlencek(https://christianbernecker.medium.com/nlp-summarization-use-bert-and-bart-to-summarize-your-favourite-newspaper-articles-fb9a81bed016)
 ```python
 # install Transformers: pip install transformers
 from transformers import pipeline
