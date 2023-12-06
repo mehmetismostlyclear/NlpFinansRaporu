@@ -6,10 +6,9 @@ Doğal Dil İşleme (NLP), bilgisayarların insan dilini anlaması, yorumlaması
 
 NLP'nin metin özetleme yetenekleri, uzun metinleri kısaltma ve önemli bilgileri çıkarma amacıyla kullanılır.
 > "NLP is basically math and statistics with elements of linguistics."
+> 
 > Shivali Goel
-> This is the second line.
->
-> And this is the third line.
+
 ```python
 import spacy
 
