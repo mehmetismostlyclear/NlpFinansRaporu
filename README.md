@@ -3,10 +3,7 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
 > "NLP is basically math and statistics with elements of linguistics."
 > 
 > Shivali Goel
-#### What's more
-
-Beside these features, LobeChat also have much better basic technique underground:
-
+#### Brief overview:
 - [x] 💨 **Tokenization**:Breaking down a sentence into individual words or tokens, making it easier for analysis.
 - [x] 💬 **Part-of-Speech (POS) Tagging**: Assigning grammatical tags (such as noun, verb, adjective) to each word in a sentence for better understanding.
 - [x] 👀 **Named Entity Recognition (NER)**:Identifying and classifying entities like names, locations, and organizations within a text.
@@ -118,7 +115,7 @@ industry.
   <img src="https://github.com/mehmetismostlyclear/NlpFinansRaporu/assets/87391205/7c7483d3-de7d-47cc-a802-4c6fa12f9b8b" alt="Resim" width="500" />
 </div>
 
-[Picture: towards data science][2]
+[Picture: towardsdatascience][2]
 
 [2]: www.towardsdatascience.com/nlp-startup-funding-in-2022 
 
@@ -126,9 +123,28 @@ industry.
   <img src="https://github.com/mehmetismostlyclear/NlpFinansRaporu/assets/87391205/0fedcfd2-6145-479e-b6a7-5606ef2ec458" alt="Resim" width="500" />
 </div>
 
-[Picture: jhon sonw lab][3]
+
+As seen in the graph, NLP is widely employed in the BFSI sector, particularly for automating customer interactions, detecting fraud, and analyzing sentiment. Its extensive use highlights its pivotal role in improving operational efficiency, customer satisfaction, and data-driven decision-making in the finance industry.
+[Picture: johnsnowlabs][3]
 
 [3]: https://www.johnsnowlabs.com/examining-the-impact-of-nlp-in-financial-services/
-As seen in the graph, NLP is widely employed in the BFSI sector, particularly for automating customer interactions, detecting fraud, and analyzing sentiment. Its extensive use highlights its pivotal role in improving operational efficiency, customer satisfaction, and data-driven decision-making in the finance industry.
+> [!TIP]
+> For financial institutions, which can be reluctant to deploy cutting-edge techniques like machine learning, this socialization process is an important step. “As more and more people see it work and understand the lingo, they see that it’s not a dark art — it’s math."
+# Where is NLP Going?
+## Investments in NLP 📈
+Investments in Natural Language Processing (NLP) are on the rise as businesses recognize its potential benefits and integrate it across various industries. Major players like Microsoft have made significant investments in advanced NLP, indicating its importance in healthcare, finance, advertising, and customer service. As NLP evolves, transitioning from human-computer interaction to conversation, service desks are now providing more personalized responses using conversational AI.
+## Companies will use NLG 🏢
+Additionally, Natural Language Generation (NLG) is gaining popularity as companies experiment with automating text generation for reports and descriptions, saving time and improving data analysis. Sentiment analysis, another aspect of NLP, is being widely implemented across sectors to assess customer sentiments and feedback. Voice biometrics is becoming more common for identity verification, especially in call centers and healthcare.
+## Humanoid Robotics 🤖
+Humanoid Robotics, combining robotics and NLP, is an exciting field with robots programmed to interact using natural language. This technology is particularly valuable in healthcare, where robots can communicate, answer questions, and provide emotional support. As NLP and machine learning advance, humanoid robots are becoming more intelligent, changing the way we work, learn, and interact with technology across various industries.
 
-For financial institutions, which can be reluctant to deploy cutting-edge techniques like machine learning, this socialization process is an important step. “As more and more people see it work and understand the lingo, they see that it’s not a dark art — it’s math."
+# Ethical approach and challenges
+## Fairness
+Bias in AI, especially in Natural Language Processing (NLP), is a significant challenge. To address this, there are ongoing efforts to teach AI models using diverse datasets, aiming to make language tools fair and inclusive. This is especially important in critical areas like law enforcement and human resources.
+
+For instance, in hiring processes, AI tools are being developed to evaluate candidates' qualifications without any bias related to gender, ethnicity, or background. Likewise, law enforcement is adopting AI systems trained on diverse datasets to ensure unbiased communication with the public. These steps toward ethical AI show a commitment to creating a fairer technology environment. This focus on ethical AI is crucial in social media too, where algorithms now better identify and reduce biased content, promoting a healthier and more respectful online space for diverse global communities.
+## Privacy
+NLP systems require vast amounts of data to function, but collecting and using this data can raise serious concerns about privacy. In 2023, we can expect to see an increased focus on data privacy in NLP, with new regulations and best practices being developed to protect user data.
+## Explainability
+As NLP models become more complex, it can be difficult to understand how they arrive at certain decisions. In 2023, it will be important for NLP developers to focus on creating models that are explainable, making it easier to understand how the model arrived at a particular decision.
+
