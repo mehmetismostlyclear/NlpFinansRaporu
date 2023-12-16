@@ -3,6 +3,17 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
 > "NLP is basically math and statistics with elements of linguistics."
 > 
 > Shivali Goel
+#### What's more
+
+Beside these features, LobeChat also have much better basic technique underground:
+
+- [x] 💨 **Tokenization**:Breaking down a sentence into individual words or tokens, making it easier for analysis.
+- [x] 💬 **Part-of-Speech (POS) Tagging**: Assigning grammatical tags (such as noun, verb, adjective) to each word in a sentence for better understanding.
+- [x] 👀 **Named Entity Recognition (NER)**:Identifying and classifying entities like names, locations, and organizations within a text.
+- [x] 🈳 **Stemming and Lemmatization**: Simplifying words to their base or root form to reduce variations and aid in analysis.
+- [x] 😥 **Sentiment Analysis**: Determining the emotional tone of a piece of text, often categorized as positive, negative, or neutral.
+- [x] 🗣️ **Syntax and Grammar Parsing**: Analyzing the grammatical structure of sentences to comprehend their meaning.
+
 # Text Summarization with NLP?
 The aim is to create a short and clear summary while keeping the main meaning of the original content intact. This helps quickly understand the main points without reading the entire text.
 ###  🤔 What is the role of NLP in text summarization?
