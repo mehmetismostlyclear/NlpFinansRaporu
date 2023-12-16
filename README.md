@@ -3,9 +3,9 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
 > "NLP is basically math and statistics with elements of linguistics."
 > 
 > Shivali Goel
-# 🤔 Text Summarization with NLP?
+# Text Summarization with NLP?
 The aim is to create a short and clear summary while keeping the main meaning of the original content intact. This helps quickly understand the main points without reading the entire text.
-### What is the role of NLP in text summarization?
+###  🤔 What is the role of NLP in text summarization?
 * Automatically shorts documents, papers, podcasts.
 
 * Enables a more in-depth analysis and understanding of the content of news.
@@ -70,7 +70,7 @@ We have seen that transformers are used for abstractive analysis.
 
 > \[!NOTE]
 >
-> A transformer is a deep learning architecture .
+> A transformer is a deep learning architecture model.
 
 [1]: https://christianbernecker.medium.com/nlp-summarization-use-bert-and-bart-to-summarize-your-favourite-newspaper-articles-fb9a81bed016
 
