@@ -1,6 +1,4 @@
 # What is NLP ?
-https://github.com/mehmetismostlyclear/NlpFinansRaporu 
-pdfe uygun dönüşmüyor isterseniz burdan inceleyebilirsiniz.
 
 Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language.
 > "NLP is basically math and statistics with elements of linguistics."
